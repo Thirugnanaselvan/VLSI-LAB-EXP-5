@@ -26,7 +26,7 @@ STEP:12 Load the Bit file into the SPARTAN 6 FPGA
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
 
 
-VERILOG CODE:
+**VERILOG CODE:**
 ```
 module Sequence_Detector_Moore(clock,reset,sequence_in,detector_out);
 input clock, reset, sequence_in; 
@@ -86,7 +86,7 @@ end
 endmodule
 ```
 
-OUTPUT:
+**OUTPUT:**
 
 ![fsm](https://github.com/Thirugnanaselvan/VLSI-LAB-EXP-5/assets/160720772/78da6b9f-e139-4b20-952f-55e89f8fc208)
 
